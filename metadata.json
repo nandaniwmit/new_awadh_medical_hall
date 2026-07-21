@@ -1,0 +1,6 @@
+{
+  "name": "New Awadh Medical Hall",
+  "description": "Your Trusted Medical Store for Genuine Medicines & Healthcare Needs",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
